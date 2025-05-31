@@ -126,8 +126,8 @@ Kelompok F4
 | ----- | ----- |
 | Test Strategy | main/Test Strategy.docs |
 | Test Plan | main/ |
-| Test Scenario | main/ |
-| Kebutuhan Fungsional dan non Fungsional aplikasi | main/  |
+| Test Scenario | main/test-scenario-airbnb |
+| Kebutuhan Fungsional dan non Fungsional aplikasi | main/kebutuhan-aplikasi-airbnb |
 
 4. # **Traceability Matrix** {#traceability-matrix}
 
