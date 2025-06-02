@@ -1,5 +1,3 @@
----
-
 **<<Dokumen Rencana Pengujian - SOW # opsional>>**
 
 **<<Aplikasi Web Airbnb - [Nama Institusi Anda]>>**
@@ -8,9 +6,9 @@
 
 **Riwayat Perubahan Dokumen**
 
-| Nomor Versi | Tanggal | Kontributor | Deskripsi |
-|---|---|---|---|
-| V1.0 | 2025-06-02 | [Nama Anda/Tim Anda] | Draf Awal Rencana Pengujian untuk Aplikasi Web Airbnb |
+| Nomor Versi | Tanggal    | Kontributor          | Deskripsi                                             |
+| ----------- | ---------- | -------------------- | ----------------------------------------------------- |
+| V1.0        | 2025-06-02 | [Nama Anda/Tim Anda] | Draf Awal Rencana Pengujian untuk Aplikasi Web Airbnb |
 
 ---
 
