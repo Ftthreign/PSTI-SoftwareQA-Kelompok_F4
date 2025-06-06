@@ -174,17 +174,17 @@ Kelompok F4
 | Pass | 43 | Pending | 10 |
 | Fail | 3 | Number of test cases: | 80 |
 | Test Case | Pencarian dan Penemuan Properti (Search & Discovery) |  |  |
-| Pass | 0 | Pending | 0 |
-| Fail | 0 | Number of test cases: | 0 |
+| Pass | 12 | Pending | 0 |
+| Fail | 1 | Number of test cases: | 16 |
 | Test Case | User Management |  |  |
-| Pass | 0 | Pending | 0 |
-| Fail | 0 | Number of test cases: | 0 |
+| Pass | 21 | Pending | 10 |
+| Fail | 1 | Number of test cases: | 32 |
 | Test Case | Detail Properti |  |  |
-| Pass | 0 | Pending | 0 |
-| Fail | 0 | Number of test cases: | 0 |
+| Pass | 27 | Pending | 0 |
+| Fail | 1 | Number of test cases: | 28 |
 | Test Case | Customer Support |  |  |
-| Pass | 0 | Pending | 0 |
-| Fail | 0 | Number of test cases: | 0 |
+| Pass | 4 | Pending | 0 |
+| Fail | 0 | Number of test cases: | 4 |
 
 1. ## **Pencarian dan Penemuan Properti (Search & Discovery)** {#pencarian-dan-penemuan-properti-(search-&-discovery)}
 
