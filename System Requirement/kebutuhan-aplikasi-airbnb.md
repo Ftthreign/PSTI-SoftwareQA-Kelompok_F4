@@ -19,11 +19,10 @@ Kelompok F4
 |  | FR-CP11 |  | Sistem harus menyediakan fitur "Daftar Keinginan" (Wishlist) agar pengguna dapat menyimpan properti. |
 | 2 | FR-USR01 | User Management | Sistem harus memungkinkan pengguna untuk mendaftar akun baru menggunakan email, Google, Facebook, atau Apple ID. |
 |  | FR-USR02 |  | Sistem harus memungkinkan pengguna untuk masuk (login) ke akun mereka. |
-|  | FR-USR03 |  | Sistem harus menyediakan fitur "Lupa Kata Sandi" untuk reset kata sandi. |
-|  | FR-USR04 |  | Sistem harus memungkinkan pengguna untuk mengedit profil mereka (nama, foto profil, deskripsi diri, nomor telepon). |
-|  | FR-USR05 |  | Sistem harus memungkinkan pengguna untuk menambahkan dan mengelola metode pembayaran yang valid. |
-|  | FR-USR06 |  | Sistem harus menampilkan riwayat pemesanan pengguna (aktif, selesai, dibatalkan). |
-|  | FR-USR07 |  | Sistem harus memungkinkan pengguna untuk mengelola preferensi notifikasi mereka. |
+|  | FR-USR03 |  | Sistem harus memungkinkan pengguna untuk mengedit profil mereka (nama, foto profil, deskripsi diri, nomor telepon). |
+|  | FR-USR04 |  | Sistem harus memungkinkan pengguna untuk menambahkan dan mengelola metode pembayaran yang valid. |
+|  | FR-USR05 |  | Sistem harus menampilkan riwayat pemesanan pengguna (aktif, selesai, dibatalkan). |
+|  | FR-USR06 |  | Sistem harus memungkinkan pengguna untuk mengelola preferensi notifikasi mereka. |
 | 3 | FR-DP01 | Detail Properti | Sistem harus menampilkan galeri foto dari properti. |
 |  | FR-DP02 |  | Sistem harus menampilkan deskripsi lengkap properti yang disediakan oleh tuan rumah. |
 |  | FR-DP03 |  | Sistem harus menampilkan detail spesifik properti (jumlah kamar tidur, kamar mandi, jenis tempat tidur). |
