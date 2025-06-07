@@ -53,7 +53,6 @@ Kelompok F4
 * Pencarian dan Penemuan Properti (Search & Discovery)  
 * User Management  
 * Detail Properti  
-* Review dan Rating  
 * Customer Support
 
   2. ## **Menjamin Pengalaman Pengguna yang Konsisten** {#menjamin-pengalaman-pengguna-yang-konsisten}
@@ -83,14 +82,13 @@ Kelompok F4
 * Pencarian & Penemuan Properti  
 * Manajemen Pengguna  
 * Detail Properti  
-* Review & Rating  
 * Customer Support
 
   2. ### **Automated Test** {#automated-test}
 
   Automated testing akan dilakukan menggunakan **Selenium** dan **Test Case Studio** di Google Chrome. Skrip-skrip ini dirancang untuk:
 
-* Menjalankan skenario end-to-end pada kelima fitur kunci (Search & Discovery, User Management, Detail Properti, Review & Rating, Customer Support).  
+* Menjalankan skenario end-to-end pada keempat fitur kunci (Search & Discovery, User Management, Detail Properti, Customer Support).  
 * Meningkatkan kecepatan dan konsistensi eksekusi pengujian rutin tanpa risiko human error.
 
   2. ## **Measuring the Extent of Testing** {#measuring-the-extent-of-testing}
