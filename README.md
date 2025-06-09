@@ -60,8 +60,9 @@ Selain segi hardware, dibutuhkan daftar perangkat lunak berikut:
 ## 📎 Dokumen Terkait
 
 - 📄 [System Requirements](./System%20Requirement/kebutuhan-aplikasi-airbnb.md)
-- 📄 [Test Strategy](#)
-- 📄 [Test Plan](#)
-- 📄 [Test Scenario](#)
+- 📄 [Test Strategy](./Test%20Strategy/test-strategy-airbnb.docx.pdf)
+- 📄 [Test Plan](./Test%20Plan/Test%20Plan%20airbnb.pdf)
+- 📄 [Test Scenario](./Test%20Scenario/test-scenario-airbnb.docx.pdf)
 - 📄 [Test Case](./Test%20Case/test-case-airbnb.docx.pdf)
 - 📄 [Testing Report](/Testing%20Report/testing-report-airbnb.docx.pdf)
+- 📄 [Testing Report](https://www.youtube.com/watch?v=O40qEdOrvjI&feature=youtu.be)
