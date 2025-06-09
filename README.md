@@ -65,4 +65,4 @@ Selain segi hardware, dibutuhkan daftar perangkat lunak berikut:
 - 📄 [Test Scenario](./Test%20Scenario/test-scenario-airbnb.docx.pdf)
 - 📄 [Test Case](./Test%20Case/test-case-airbnb.docx.pdf)
 - 📄 [Testing Report](/Testing%20Report/testing-report-airbnb.docx.pdf)
-- 📄 [Testing Report](https://www.youtube.com/watch?v=O40qEdOrvjI&feature=youtu.be)
+- 📄 [Video](https://www.youtube.com/watch?v=O40qEdOrvjI&feature=youtu.be)
